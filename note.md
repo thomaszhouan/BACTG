@@ -3,6 +3,7 @@
 * Variable name conflict and shadowing
 * Variable unitialized
 * `first` vs `second` in `pair`
+* `set` vs `multiset`
 ## Time
 * `vector` as hash key is slow
 ## Trick
